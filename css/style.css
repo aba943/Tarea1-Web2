@@ -1,0 +1,209 @@
+#cara{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    background-color: #ad6f32;
+   
+}
+#oreja1{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px;
+    border-color: black;
+    border-style: solid;
+    position:absolute;
+    right:190px;
+    display: inline-block;
+    background-color: #ad6f32;
+    
+}
+#oreja2{
+    width: 130px;
+    height: 130px;
+    border-radius: 80px;
+    border-color: black;
+    border-style: solid;
+    position:absolute;
+    left: 194px;
+    display: inline-block;
+    background-color: #ad6f32;
+    
+}
+#ojo1{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50px;
+    position: relative;
+    display: inline-block;
+    left: 50px;
+    top: 75px;
+}
+
+#ojo2{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50px;
+    position: relative;
+    display: inline-block;
+    left: 100px;
+    top: 75px;
+}
+#boca{
+    width: 100px;
+    height: 110px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 75px;
+    top: 60px;
+    background-color: #fdc896;
+}
+#nariz{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50px;
+    position: relative;
+    left: 25px;
+    top: 5px; 
+}
+/* CUERPO*/
+#cuerpo{
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+    background-color: #ad6f32;
+    
+}
+#panza{
+    width: 320px;
+    height: 320px;
+    background-color: #fdc896;
+    position: absolute;
+    border-radius: 200px;
+    border-color: black;
+    border-style: solid;
+    left: 610px;
+    top: 300px;
+    
+}
+
+#pata1{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    border-color: black;
+    border-style: solid;
+    position:relative;
+    right: 50px;
+    display: inline-block;
+    background-color: #ad6f32;
+}
+#pata2{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    border-color: black;
+    border-style: solid;
+    position: relative;
+    left: 150px;
+    display: inline-block;
+    background-color: #ad6f32;
+}
+#pata3{
+    height: 150px;
+    width: 180px;
+    border-radius: 80px;
+    border-color: black;
+    border-style: solid;
+    transform: rotate(40deg);
+    position: relative;
+    top: 100px;
+    display: inline-block;
+    background-color: #ad6f32;
+}
+#pata4{
+    height: 150px;
+    width: 180px;
+    border-radius: 80px;
+    border-color: black;
+    border-style: solid;
+    transform: rotate(140deg);
+    position: relative;
+    top: 100px;
+    left: 40px;
+    display: inline-block;
+    background-color: #ad6f32;
+}
+
+/*
+#container1{
+   width:1000px ;
+   height:1000px; 
+   background-color: aquamarine;
+   margin: auto;
+}
+body{
+    font-family: Montserrat;
+}
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+#box2{
+    width: 200px;
+    height: 200px;
+    background-color: rebeccapurple;
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+#box3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: fixed;
+    top: 100px;
+}
+#box4{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: sticky;
+    top: 200px;
+    left: 200px;
+}
+#box4-1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: relative;
+    left: 50px;
+    transform: rotate(45deg)
+}
+#box4-2{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    left: 50px;
+    border-radius: 50px;
+}
+*/
